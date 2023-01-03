@@ -1,0 +1,35 @@
+.header-main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.header-left-div {
+    width: 20%;
+}
+
+.header-left-div img {}
+
+.header-middle-div {
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+
+.header-middle-div ul {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.header-middle-div li {}
+
+.header-right-div {
+    width: 20%;
+}
+
+.header-right-div button {}

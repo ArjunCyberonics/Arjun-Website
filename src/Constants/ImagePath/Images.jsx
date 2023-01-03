@@ -1,0 +1,1 @@
+export { default as MainImg } from '../../Assets/Images/Home/Main-img.jpeg'

@@ -95,11 +95,13 @@
     font-size: 16px;
     font-family: 'Mukta Mahee', sans-serif;
     color: var(--bg-white);
+    text-decoration: none;
 }
 
 .yellow-title {
     color: var(--theme-dark-yellow);
     font-weight: 600;
+    font-size: 80px;
 }
 
 .normal-white-p {
@@ -110,6 +112,7 @@
 .green-subtitle {
     color: var(--theme-dark-green);
     font-weight: 600;
+    font-size: 30px;
 }
 
 .without-mg-p {
@@ -119,6 +122,7 @@
 .white-title {
     color: var(--bg-white);
     font-weight: 600;
+    font-size: 60px;
 }
 
 /* Colors */
@@ -143,4 +147,9 @@
 
 .dark-bg {
     background-image: radial-gradient(circle, #1d3833, #232f23, #27261a, #261d16, #201615);
+    height: 100vh;
+}
+
+.default-link {
+    text-decoration: none;
 }
